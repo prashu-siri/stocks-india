@@ -216,8 +216,4 @@ Run the below command for testing and coverage.
 yarn test
 ```
 
-## Contributors
-
-<a href="https://github.com/hi-imcodeman/stock-nse-india/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hi-imcodeman/stock-nse-india" />
-</a>
+This repo is cloned from https://github.com/hi-imcodeman/stock-nse-india
